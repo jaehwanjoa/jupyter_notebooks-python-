@@ -2,7 +2,7 @@ from OTXv2 import OTXv2, IndicatorTypes
 import os
 import pandas as pd
 
-API_KEY = '2c5cf84144f2052145bee430b136da40757637989a7c6cfddb08e059377d5cad'
+API_KEY = 'Input OTX API Key'
 otx = OTXv2(API_KEY)
 
 # Input Threat Intelligence Entity
